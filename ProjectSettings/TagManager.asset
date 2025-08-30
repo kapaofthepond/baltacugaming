@@ -57,6 +57,9 @@ TagManager:
   - name: BG 1
     uniqueID: 449894667
     locked: 0
+  - name: BG
+    uniqueID: 740858919
+    locked: 0
   - name: 3D PLATFORM
     uniqueID: 2783319477
     locked: 0
